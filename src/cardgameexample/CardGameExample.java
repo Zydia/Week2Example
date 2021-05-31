@@ -9,6 +9,7 @@ import java.util.Scanner;
 /**
  *
  * @author User
+ * 
  */
 public class CardGameExample {
 
